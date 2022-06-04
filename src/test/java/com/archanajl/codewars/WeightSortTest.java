@@ -1,7 +1,6 @@
 package com.archanajl.codewars;
+
 import static org.junit.jupiter.api.Assertions.*;
-
-
 import com.archanajl.codewars.weightforweight.WeightSort;
 import org.junit.jupiter.api.Test;
 
