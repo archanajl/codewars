@@ -4,7 +4,7 @@
 
 - To share with you few of the 'codewars' kata (5kyu & 4kyu) I had fun with.
 
-### My CodeWars page</ins>
+### <ins>My CodeWars page (Profile Name - ArchanaFunCode!)</ins>
 
 Please click [here](https://www.codewars.com/users/ArchanaFunCode!) to view my page and have fun !!
 
