@@ -37,3 +37,15 @@ Please click [here](https://www.codewars.com/users/ArchanaFunCode!) to view my p
 - Paginating a huge book![](https://img.shields.io/badge/5kyu-5kyu-yellow)
   More details [here](https://www.codewars.com/kata/55905b7597175ffc1a00005a)
 
+
+- The observed PIN![](https://img.shields.io/badge/4kyu-4kyu-blue)
+  More details [here](https://www.codewars.com/kata/5263c6999e0f40dee200059d)
+
+
+- Permutations![](https://img.shields.io/badge/4kyu-4kyu-blue)
+  More details [here](https://www.codewars.com/kata/5254ca2719453dcc0b00027d)
+
+  
+- Strip Comments![](https://img.shields.io/badge/4kyu-4kyu-blue)
+  More details [here](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
+
