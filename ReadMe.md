@@ -49,3 +49,14 @@ Please click [here](https://www.codewars.com/users/ArchanaFunCode!) to view my p
 - Strip Comments![](https://img.shields.io/badge/4kyu-4kyu-blue)
   More details [here](https://www.codewars.com/kata/51c8e37cee245da6b40000bd)
 
+
+- Catching Car Mileage Numbers![](https://img.shields.io/badge/4kyu-4kyu-blue)
+  More details [here](https://www.codewars.com/kata/52c4dd683bfd3b434c000292)
+
+
+- Roman Numerals Helper![](https://img.shields.io/badge/4kyu-4kyu-blue)
+  More details [here](https://www.codewars.com/kata/51b66044bce5799a7f000003)
+  
+
+- Simple Pig Latin![](https://img.shields.io/badge/5kyu-5kyu-yellow)
+  More details [here](https://www.codewars.com/kata/520b9d2ad5c005041100000f)
